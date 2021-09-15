@@ -27,10 +27,6 @@ module.exports = {
         },
       ],
     },
-    algolia: {
-      apiKey: 'bcc4f4a52b8e9c5dc8bf70aebbb86daf',
-      indexName: 'archetype',
-    },
   },
   presets: [
     [
